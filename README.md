@@ -1,4 +1,7 @@
 # M3_Wiper Control System
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2331505c2c0d44e9a47abe195735e51b)](https://app.codacy.com/gh/NARENDAREN/M3_Wiper-control-system?utm_source=github.com&utm_medium=referral&utm_content=NARENDAREN/M3_Wiper-control-system&utm_campaign=Badge_Grade_Settings)
+
 # BADGES
 # Codacy - Static Code Analysis
 
